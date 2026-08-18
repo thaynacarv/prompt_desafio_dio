@@ -1,5 +1,6 @@
 ​Atue como analista de dados especialista em experiência do cliente (CX) no setor bancário.
 ​
+
 Sua tarefa é analisar as avaliações dos usuários na Google Play Store e App Store, além dos registros de chamados de suporte técnico do aplicativo e 
 internet banking para identificar onde estão concentradas as falhas mais recorrentes que prejudicam a usabilidade e a experiência do cliente.
 ​
@@ -17,9 +18,11 @@ e grau de urgência (alto, médio ou baixo).
 ​Formato da resposta: Uma tabela categorizando os problemas por tipo, acompanhada dos motivos e de um resumo/ranking de até 5 linhas das falhas mais críticas e recorrentes.
 
 ​Restrições:
-​Use apenas os dados fornecidos.
-​Não invente números, causas ou conclusões.
-​Não exponha dados pessoais ou sensíveis.
-​Informe limitações quando os dados não forem suficientes.
-​Use linguagem executiva, clara e técnica. O resultado será considerado bom se apresentar clareza na descrição dos erros técnicos, separação objetiva entre falhas reais do sistema e dúvidas 
-do usuário, e foco em recomendações acionáveis.
+
+-Use apenas os dados fornecidos.  
+-Não invente números, causas ou conclusões.  
+-Não exponha dados pessoais ou sensíveis.  
+-Informe limitações quando os dados não forem suficientes.  
+-Use linguagem executiva, clara e técnica. 
+
+O resultado será considerado bom se apresentar clareza na descrição dos erros técnicos, separação objetiva entre falhas reais do sistema e dúvidas do usuário, e foco em recomendações executáveis.
